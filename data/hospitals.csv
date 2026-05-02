@@ -1,0 +1,11 @@
+Name,Hospital_Code__c,City__c,Operating_Hours__c,Address__c
+Onco Global Main Campus,HOSP-001,Mumbai,Mon-Sat 7AM-9PM,"123 Marine Drive, Mumbai 400001"
+Onco Global North,HOSP-002,Delhi,Mon-Sat 8AM-8PM,"45 Connaught Place, New Delhi 110001"
+Onco Global South,HOSP-003,Bangalore,Mon-Sat 8AM-8PM,"78 MG Road, Bangalore 560001"
+Onco Global East,HOSP-004,Kolkata,Mon-Sat 8AM-7PM,"12 Park Street, Kolkata 700016"
+Onco Global West,HOSP-005,Ahmedabad,Mon-Sat 8AM-8PM,"56 SG Highway, Ahmedabad 380054"
+Onco Global Central,HOSP-006,Hyderabad,Mon-Sat 7AM-9PM,"90 HITEC City, Hyderabad 500081"
+Onco Global Premier,HOSP-007,Pune,Mon-Sat 8AM-8PM,"34 Koregaon Park, Pune 411001"
+Onco Global Research Center,HOSP-008,Chennai,Mon-Fri 9AM-6PM,"67 Anna Nagar, Chennai 600040"
+Onco Global Pediatric,HOSP-009,Jaipur,Mon-Sat 8AM-7PM,"23 MI Road, Jaipur 302001"
+Onco Global Care Hub,HOSP-010,Lucknow,Mon-Sat 8AM-8PM,"89 Hazratganj, Lucknow 226001"

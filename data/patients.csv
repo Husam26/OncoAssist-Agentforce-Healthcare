@@ -1,0 +1,11 @@
+FirstName,LastName,RecordTypeId,Patient_ID__c,Gender__c,Date_of_Birth__c,Blood_Group__c,Primary_Diagnosis__c,Preferred_Hospital__c,Preferred_Language__c
+Rahul,Verma,012ak00000Aec0sAAB,PAT-00001,Male,1985-03-15,B+,Stage 2 Lung Cancer,a04ak000006kJsEAAU,Hindi
+Priya,Menon,012ak00000Aec0sAAB,PAT-00002,Female,1978-07-22,O+,Stage 1 Breast Cancer,a04ak000006kJsGAAU,English
+Anil,Kumar,012ak00000Aec0sAAB,PAT-00003,Male,1965-11-08,A+,Chronic Leukemia,a04ak000006kJsEAAU,Hindi
+Fatima,Sheikh,012ak00000Aec0sAAB,PAT-00004,Female,1992-01-30,AB+,Cervical Cancer,a04ak000006kJsFAAU,Hinglish
+Suresh,Pillai,012ak00000Aec0sAAB,PAT-00005,Male,1970-09-14,O-,Brain Tumor,a04ak000006kJsFAAU,English
+Lakshmi,Rajan,012ak00000Aec0sAAB,PAT-00006,Female,1988-05-20,A-,Ovarian Cancer,a04ak000006kJsGAAU,English
+Deepak,Tiwari,012ak00000Aec0sAAB,PAT-00007,Male,1955-12-01,B-,Prostate Cancer,a04ak000006kJsEAAU,Hindi
+Neha,Gupta,012ak00000Aec0sAAB,PAT-00008,Female,1995-08-10,AB-,Lymphoma,a04ak000006kJsEAAU,Hinglish
+Ravi,Shankar,012ak00000Aec0sAAB,PAT-00009,Male,1980-04-25,A+,Colon Cancer,a04ak000006kJsFAAU,English
+Meena,Devi,012ak00000Aec0sAAB,PAT-00010,Female,1960-06-18,O+,Stomach Cancer,a04ak000006kJsHAAU,Hindi

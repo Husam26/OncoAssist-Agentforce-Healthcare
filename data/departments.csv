@@ -1,0 +1,13 @@
+Name,Department_Code__c,Hospital__c,Specialty_Tags__c,Avg_Wait_Time__c
+Medical Oncology,ONCO,a04ak000006kJsEAAU,"breast cancer, lung cancer, blood cancer, leukemia, lymphoma, chemotherapy",25
+Radiation Oncology,RADIO,a04ak000006kJsEAAU,"radiation therapy, radiotherapy, targeted radiation, brachytherapy",30
+Surgical Oncology,SURG,a04ak000006kJsEAAU,"tumor removal, biopsy, mastectomy, cancer surgery",45
+Hematology,HEMA,a04ak000006kJsEAAU,"blood disorders, leukemia, lymphoma, myeloma, blood cancer",20
+Medical Oncology,ONCO,a04ak000006kJsFAAU,"breast cancer, lung cancer, blood cancer, leukemia, lymphoma, chemotherapy",25
+Radiation Oncology,RADIO,a04ak000006kJsFAAU,"radiation therapy, radiotherapy, targeted radiation, brachytherapy",30
+Medical Oncology,ONCO,a04ak000006kJsGAAU,"breast cancer, lung cancer, blood cancer, leukemia, lymphoma, chemotherapy",25
+Pediatric Oncology,PEDO,a04ak000006kJsGAAU,"childhood cancer, pediatric tumors, neuroblastoma",30
+Neuro-Oncology,NEUR,a04ak000006kJsFAAU,"brain tumor, brain cancer, glioblastoma, meningioma",35
+Gynecological Oncology,GYNO,a04ak000006kJsGAAU,"cervical cancer, ovarian cancer, uterine cancer",25
+Palliative Care,PALL,a04ak000006kJsEAAU,"pain management, end-of-life care, comfort care, symptom relief",20
+Diagnostics & Pathology,DIAG,a04ak000006kJsEAAU,"blood test, scans, MRI, CT",15

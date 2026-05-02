@@ -1,0 +1,11 @@
+Name,Provider_Code__c,Specialization__c,Department__c,Hospital__c,Experience_Years__c,Consultation_Fee__c,Languages_Spoken__c,Symptom_Keywords__c
+Dr. Priya Sharma,DOC-001,Medical Oncology,a06ak00000Pr9OXAAZ,a04ak000006kJsEAAU,18,2000,"English, Hindi","breast cancer, chemotherapy, breast lump, tumor, HER2, hormone therapy"
+Dr. Rajesh Patel,DOC-002,Radiation Oncology,a06ak00000Pr9OYAAZ,a04ak000006kJsEAAU,22,2500,"English, Hindi, Gujarati","radiation, radiotherapy, prostate cancer, head neck cancer"
+Dr. Ananya Krishnan,DOC-003,Surgical Oncology,a06ak00000Pr9OZAAZ,a04ak000006kJsEAAU,15,3000,"English, Hindi, Tamil","surgery, tumor removal, mastectomy, biopsy, lump removal"
+Dr. Mohammed Khan,DOC-004,Hematology,a06ak00000Pr9OaAAJ,a04ak000006kJsEAAU,20,2000,"English, Hindi, Urdu","blood cancer, leukemia, lymphoma, anemia, low platelet"
+Dr. Sunita Reddy,DOC-005,Medical Oncology,a06ak00000Pr9ObAAJ,a04ak000006kJsFAAU,12,1800,"English, Hindi, Telugu","lung cancer, cough, breathing difficulty, chest pain, smoking"
+Dr. Vikram Singh,DOC-006,Neuro-Oncology,a06ak00000Pr9OfAAJ,a04ak000006kJsFAAU,25,3500,"English, Hindi","brain tumor, headache, seizure, vision problem, glioblastoma"
+Dr. Meera Nair,DOC-007,Gynecological Oncology,a06ak00000Pr9OgAAJ,a04ak000006kJsGAAU,16,2200,"English, Hindi, Malayalam","cervical cancer, ovarian cancer, irregular bleeding, pelvic pain"
+Dr. Arjun Mehta,DOC-008,Pediatric Oncology,a06ak00000Pr9OeAAJ,a04ak000006kJsGAAU,14,2000,"English, Hindi","childhood cancer, child tumor, neuroblastoma, kid cancer"
+Dr. Kavitha Iyer,DOC-009,Palliative Care,a06ak00000Pr9OhAAJ,a04ak000006kJsEAAU,10,1500,"English, Hindi, Tamil","pain, pain management, palliative, end of life, comfort"
+Dr. Amit Joshi,DOC-010,Diagnostics,a06ak00000Pr9OiAAJ,a04ak000006kJsEAAU,8,1000,"English, Hindi","blood test, scan, MRI, CT, PET scan, biopsy report, lab"

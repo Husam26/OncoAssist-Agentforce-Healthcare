@@ -1,0 +1,6 @@
+Patient__c,Provider__c,Department__c,Hospital__c,Appointment_Date__c,Appointment_Time__c,Status__c,Type__c,Priority__c
+001ak000027gyluAAA,a07ak000018oiIxAAI,a06ak00000Pr9ObAAJ,a04ak000006kJsFAAU,2026-04-17,10:00 AM,Scheduled,Follow-up,Normal
+001ak000027gylvAAA,a07ak000018oiItAAI,a06ak00000Pr9OXAAZ,a04ak000006kJsEAAU,2026-04-17,11:30 AM,Confirmed,Chemotherapy,Normal
+001ak000027gylwAAA,a07ak000018oiIwAAI,a06ak00000Pr9OaAAJ,a04ak000006kJsEAAU,2026-04-18,09:00 AM,Scheduled,Follow-up,High
+001ak000027gylxAAA,a07ak000018oiIzAAI,a06ak00000Pr9OgAAJ,a04ak000006kJsGAAU,2026-04-23,02:00 PM,Scheduled,New Consultation,Normal
+001ak000027gylyAAA,a07ak000018oiIyAAI,a06ak00000Pr9OfAAJ,a04ak000006kJsFAAU,2026-04-16,03:30 PM,Confirmed,Follow-up,Urgent
