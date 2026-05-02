@@ -97,7 +97,7 @@ Cancer patients navigating treatment face a complex journey — from booking the
 | # | Feature | Technology |
 |---|---------|-----------|
 | 08 | Predictive No-Show Reduction | Data Cloud, Historical Analytics |
-| 09 | WhatsApp/SMS Notification Engine | Messaging Framework |
+| 09 | SMS Telephony Channel — Omnichannel Access | Salesforce Messaging, Telephony Integration |
 | 10 | Emergency Priority Triage | Keyword Detection, Auto-Escalation |
 | 11 | Multi-Language Support | Translation Framework |
 | 12 | Care Journey Tracking | Clinical Summary Generator |
@@ -116,6 +116,11 @@ Cancer patients navigating treatment face a complex journey — from booking the
 | # | Feature | Technology |
 |---|---------|-----------|
 | 19 | **AI Prescription OCR & Drug Safety Guard** | **Groq Llama 4 Scout Vision AI**, Apex HTTP Callout |
+
+### 📱 Omnichannel Access
+| # | Feature | Technology |
+|---|---------|-----------|
+| 20 | SMS Telephony Channel | Salesforce Messaging Channel, Reserved Phone Number, Agent Routing |
 
 ---
 
@@ -210,6 +215,7 @@ onco_global/
 - **Apex** — 15+ Invocable Actions powering intelligent clinical workflows
 - **Salesforce Flows** — Record-Triggered & Scheduled automation
 - **Groq API** — Llama 4 Scout Vision model for real-time prescription OCR
+- **Salesforce Messaging** — SMS Telephony Channel for omnichannel patient access
 - **Custom Objects** — 6 purpose-built clinical data objects
 - **Person Accounts** — Patient-centric data architecture
 
@@ -256,6 +262,13 @@ Agent:   "Welcome back! I see you visited Hematology yesterday.
 [Appointment cancelled] → Flow auto-triggers →
 Finds next waitlisted patient → Sends notification →
 "A slot just opened up in Oncology! Would you like to book it?"
+```
+
+### Scenario 5: SMS Access
+```
+Patient texts reserved number: "I need to book an appointment"
+Agentforce receives via Messaging Channel → Routes to Appointment Management
+→ Full AI-powered scheduling via SMS
 ```
 
 ---
